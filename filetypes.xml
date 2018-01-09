@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="veen" type="PLAIN_TEXT" />
+      <mapping pattern="iwslt_attention" type="PLAIN_TEXT" />
       <mapping ext="numbers" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
