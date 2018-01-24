@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping pattern="veen" type="PLAIN_TEXT" />
       <mapping pattern="iwslt_attention" type="PLAIN_TEXT" />
+      <mapping ext="ogg" type="PLAIN_TEXT" />
       <mapping ext="numbers" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
