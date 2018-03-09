@@ -3,10 +3,12 @@
     <extensionMap>
       <mapping pattern="veen" type="PLAIN_TEXT" />
       <mapping pattern="tkcode" type="PLAIN_TEXT" />
+      <mapping pattern="deen_ref_spm" type="PLAIN_TEXT" />
       <mapping pattern="iwslt_attention" type="PLAIN_TEXT" />
       <mapping ext="ogg" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="numbers" type="PLAIN_TEXT" />
+      <mapping ext="vi" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
